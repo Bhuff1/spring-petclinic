@@ -30,3 +30,13 @@ Image 9:
 
 Image 10:
 ![Screen Capture #10](figures/image10.PNG)
+
+Homework 8
+
+![Homework 8 image 1](figures/SE 441 hw8 image 1.PNG)
+
+![Homework 8 image 2](figures/SE 441 hw8 image 2.PNG)
+
+![Homework 8 image 2.1](figures/SE 441 hw8 image 2.1.PNG)
+
+![Homework 8 image 3](figures/SE 441 hw8 image 3.PNG)
