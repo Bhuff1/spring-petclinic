@@ -33,7 +33,7 @@ Image 10:
 
 Homework 8
 
-(Dockerfile)
+![Homework 8 link 1](Dockerfile)
 
 ![Homework 8 image 1](figures/SE441hw8image1.PNG)
 
