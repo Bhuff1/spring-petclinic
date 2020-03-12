@@ -33,10 +33,8 @@ Image 10:
 
 Homework 8
 
+(Dockerfile)
+
 ![Homework 8 image 1](figures/SE441hw8image1.PNG)
 
 ![Homework 8 image 2](figures/SE441hw8image2.PNG)
-
-![Homework 8 image 3](figures/SE441hw8image3.PNG)
-
-![Homework 8 image 4](figures/SE441hw8image4.PNG)
